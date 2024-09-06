@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+.wrapper{
+  border: 3px solid #07275a;
+  text-align: center;
+  max-width: 50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin:0px auto;
+  box-shadow: 5px 5px  10px #545659;
+  border-radius:10px;
+  flex-direction: column;
+}
+
+
